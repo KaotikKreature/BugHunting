@@ -9,4 +9,5 @@ Print the output of your Nmap scan using the -oX command.<br>
 Example: nmap -T4 -A -p 1-1000 -oX - scanme.nmap.org<br>
 https://nmap.org/book/output-formats-xml-output.html#output-formats-xml<br>
 <br>
-2. Amass: https://github.com/owasp-amass/amass/blob/master/doc/user_guide.md
+2. Amass: <https://github.com/owasp-amass/amass/blob/master/doc/user_guide.md><br>
+Amass is a In-depth attack surface mapping and asset discovery. The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
